@@ -7,6 +7,7 @@
       "name": "JLTomy V2 Opti",
       "author": "AbdelTTV",
       "version": "2",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay",
@@ -29,6 +30,7 @@
       "name": "OPTI V5 GRAPHICS PACK",
       "author": "Nway2K",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay"
@@ -50,6 +52,7 @@
       "name": "Nway 2K Photo Pack",
       "author": "Nway2K",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay"
@@ -70,6 +73,7 @@
       "name": "Tobias V2",
       "author": "AbdelTTV",
       "version": "2",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay",
@@ -90,6 +94,7 @@
       "name": "HIRO V5",
       "author": "Hiromasa",
       "version": "5",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay"
@@ -110,6 +115,7 @@
       "name": "HIRO V6",
       "author": "Hiromasa",
       "version": "6",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay",
@@ -131,6 +137,7 @@
       "name": "NOXY V5",
       "author": "noxypack",
       "version": "5",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay",
@@ -151,6 +158,7 @@
       "name": "NOXY SUMMER",
       "author": "noxypack",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay"
@@ -170,6 +178,7 @@
       "name": "Realistic Vision",
       "author": "GraphLauncher",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Roleplay",
@@ -189,6 +198,7 @@
       "name": "Sponge Bob",
       "author": "GraphDevelopment",
       "version": "1",
+      "vip": false,
       "categorie": "mods",
       "filtres": [
         "Fun"
@@ -207,6 +217,7 @@
       "name": "Epstein",
       "author": "GraphDevelopment",
       "version": "1",
+      "vip": false,
       "categorie": "mods",
       "filtres": [
         "Fun"
@@ -225,6 +236,7 @@
       "name": "Blue Purple",
       "author": "Pasha",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Pvp",
@@ -243,6 +255,7 @@
       "name": "Swiper Sky with Stars",
       "author": "GraphLauncher",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [
         "Pvp",
@@ -262,6 +275,7 @@
       "name": "Muffed",
       "author": "GraphLauncher",
       "version": "1",
+      "vip": false,
       "categorie": "son",
       "filtres": [
         "GunFight"
@@ -275,6 +289,7 @@
       "name": "SP2",
       "author": "bxbydrako",
       "version": "1",
+      "vip": false,
       "categorie": "son",
       "filtres": [
         "Roleplay"
@@ -288,6 +303,7 @@
       "name": "testtt",
       "author": "testttttttt",
       "version": "1",
+      "vip": false,
       "categorie": "graphique",
       "filtres": [],
       "description": "cacaca",
